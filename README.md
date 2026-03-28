@@ -1,4 +1,4 @@
-TphuSGU/profile<!-- 🎮 PIXEL ART GITHUB PROFILE — FULL STACK TEMPLATE
+<!-- 🎮 PIXEL ART GITHUB PROFILE — FULL STACK TEMPLATE
      Inspired by 8bitcn/ui — https://8bitcn.com
      Copy this file to: YOUR_USERNAME/YOUR_USERNAME/README.md
      Replace all [YOUR_USERNAME] and [YOUR_NAME] placeholders -->
